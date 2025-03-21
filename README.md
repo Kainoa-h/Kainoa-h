@@ -1,6 +1,6 @@
 ## Welcome !!
 
-> ![warning]
+> [!warning]
 > Many ssh, api and access keys will be pushed here publiically on accident
 
 <!--
