@@ -1,7 +1,7 @@
 ## Welcome !!
 
 > [!warning]
-> Many ssh, api and access keys will be pushed here publiically on accident
+> I drink paint
 
 <!--
 **Kainoa-h/Kainoa-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
