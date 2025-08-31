@@ -3,6 +3,9 @@
 > [!warning]
 > I drink paint
 
+### 🧭 Sniff paint w me:
+- 📝 [Blog](https://www.kainoaho.com) — incoherent thoughts, slightly edited
+- 🧠 [PKM](https://pkm.kainoaho.com) — personal knowledge management, or something ?
 <!--
 **Kainoa-h/Kainoa-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
